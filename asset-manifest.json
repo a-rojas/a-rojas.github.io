@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/lifesportwellness/static/css/main.0434af40.chunk.css",
+    "main.js": "/lifesportwellness/static/js/main.69efff7f.chunk.js",
+    "main.js.map": "/lifesportwellness/static/js/main.69efff7f.chunk.js.map",
+    "runtime-main.js": "/lifesportwellness/static/js/runtime-main.fda65c44.js",
+    "runtime-main.js.map": "/lifesportwellness/static/js/runtime-main.fda65c44.js.map",
+    "static/css/2.69121389.chunk.css": "/lifesportwellness/static/css/2.69121389.chunk.css",
+    "static/js/2.77099471.chunk.js": "/lifesportwellness/static/js/2.77099471.chunk.js",
+    "static/js/2.77099471.chunk.js.map": "/lifesportwellness/static/js/2.77099471.chunk.js.map",
+    "index.html": "/lifesportwellness/index.html",
+    "precache-manifest.7b14270d97b7014a134eebf2a4edc387.js": "/lifesportwellness/precache-manifest.7b14270d97b7014a134eebf2a4edc387.js",
+    "service-worker.js": "/lifesportwellness/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/lifesportwellness/static/css/2.69121389.chunk.css.map",
+    "static/css/main.0434af40.chunk.css.map": "/lifesportwellness/static/css/main.0434af40.chunk.css.map",
+    "static/js/2.77099471.chunk.js.LICENSE.txt": "/lifesportwellness/static/js/2.77099471.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/lifesportwellness/static/media/hero-bg.969fc07e.jpg",
+    "static/media/dumbbell-2.svg": "/lifesportwellness/static/media/dumbbell-2.aefd00e5.svg",
+    "static/media/dumbbell.svg": "/lifesportwellness/static/media/dumbbell.88be6be0.svg",
+    "static/media/list.svg": "/lifesportwellness/static/media/list.e95f0fb4.svg",
+    "static/media/man-barbell.jpg": "/lifesportwellness/static/media/man-barbell.beda90c2.jpg",
+    "static/media/trainer-placeholder.jpg": "/lifesportwellness/static/media/trainer-placeholder.a99a68e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda65c44.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.77099471.chunk.js",
+    "static/css/main.0434af40.chunk.css",
+    "static/js/main.69efff7f.chunk.js"
+  ]
+}
